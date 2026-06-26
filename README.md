@@ -48,7 +48,7 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin" target="*https://www.linkedin.com/in/vedalakshmi-b-s-a53536385?utm_source=share_via&utm_content=profile&utm_medium=member_android*">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
