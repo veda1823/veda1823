@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **DSA, React, and Backend Development**
 - 💻 I love working on **web apps and real-world projects**
 - 🤝 I’m open to collaborating on **open-source**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **vedalakshmi777.com**
 
 ---
 
