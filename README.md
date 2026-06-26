@@ -43,20 +43,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veda1823&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
-
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="*https://www.linkedin.com/in/vedalakshmi-b-s-a53536385?utm_source=share_via&utm_content=profile&utm_medium=member_android*">
+  <a href="https://www.linkedin.com/in/vedalakshmi-b-s-a53536385/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
 
----
+  <a href="https://twitter.com/your_twitter_username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/your_codeforces_username" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/your_instagram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=veda1823&label=Profile%20views&color=0e75b6&style=flat" alt="veda1823" />
