@@ -54,15 +54,15 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://twitter.com/your_twitter_username" target="_blank">
+  <a href="https://twitter.com/your_twitter_username" target="_https://x.com/Vedalakshmiii">
     <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://codeforces.com/profile/your_codeforces_username" target="_blank">
+  <a href="https://codeforces.com/profile/your_codeforces_username" target="_https://codeforces.com/profile/Vedalakshmi">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="https://instagram.com/your_instagram_username" target="_https://www.instagram.com/vedaahh_?igsh=MWt2a28zZDk3OWd2">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
