@@ -19,7 +19,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **Education**: B.Tech in Computer Science and Engineering at **Muthoot Institute of Technology and Science (MITS)**, Kochi &mdash; **CGPA: 8.96**
+- 🎓 **Education**: B.Tech in Computer Science and Engineering at **Muthoot Institute of Technology and Science (MITS)**, Kochi &mdash; **CGPA: 9.04**
 - 💼 **Industry Experience**: UI Development Intern at **SwarmLens Pvt. Ltd.** (2025) &mdash; frontend architecture, responsive UI components, and team agile workflows
 - ⭐ **Academic Excellence**: Achieved **100% in 10th Standard (SSLC)** and **98.6% in 12th Higher Secondary Education**
 - 🌐 **Personal Portfolio**: [https://veda1823.github.io/portfolio/](https://veda1823.github.io/portfolio/)
