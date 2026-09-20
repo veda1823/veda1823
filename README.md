@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-vedalakshmi777%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedalakshmi777@gmail.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=B.Tech+Computer+Science+%40+MITS+(CGPA%3A+8.96);UI+Development+Intern+%40+SwarmLens;Building+Full-Stack+Web+%26+Assistive+Tech;Python+Computer+Vision+%26+MERN+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=B.Tech+Computer+Science+%40+MITS+(CGPA%3A+9.04);UI+Development+Intern+%40+SwarmLens;Building+Full-Stack+Web+%26+Assistive+Tech;Python+Computer+Vision+%26+MERN+Developer" alt="Typing SVG" />
 </p>
 
 ---
